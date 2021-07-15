@@ -24,6 +24,11 @@ export default {
       to: {type: 'author'},
     },
     {
+      name: 'price',
+      title: 'Price',
+      type: 'string',
+    },
+    {
       name: 'mainImage',
       title: 'Main image',
       type: 'image',
